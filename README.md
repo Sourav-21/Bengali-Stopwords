@@ -1,4 +1,6 @@
 # Bengali-Stopwords
+[![GitHub license](https://img.shields.io/github/license/Sourav-21/Bengali-Stopwords)](https://github.com/Sourav-21/Bengali-Stopwords/blob/main/LICENSE)
+
 List of common Bengali Stopwords
 ## Sources
 - [Google Corpus Crawler](https://github.com/google/corpuscrawler)
